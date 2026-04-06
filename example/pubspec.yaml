@@ -1,4 +1,4 @@
-name: marquee_text_example
+name: marquee_pro_example
 description: 'An example app showing how to use the Marquee Text widget.'
 version: 1.0.0
 publish_to: none
@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  marquee_text:
+  marquee_pro:
     path: ..
 
 dev_dependencies:

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:marquee_text/marquee_text.dart';
+import 'package:marquee_pro/marquee_pro.dart';
 
 void main() => runApp(const MarqueeTextExampleApp());
 

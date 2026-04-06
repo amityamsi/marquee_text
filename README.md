@@ -25,7 +25,7 @@ smooth, infinitely scrolling text, rich spans, and custom widgets.
 ## Basic Example
 
 ```dart
-import 'package:marquee_text/marquee_text.dart';
+import 'package:marquee_pro/marquee_pro.dart';
 
 Marquee(
   text: 'Breaking news and updates move smoothly across the screen.',
@@ -145,4 +145,4 @@ Marquee(
 ## License
 
 This package is distributed under the MIT License.
-# marquee_text
+# marquee_pro

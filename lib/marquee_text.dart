@@ -1,4 +1,4 @@
-library marquee_text;
+library marquee_pro;
 
 import 'dart:async';
 
