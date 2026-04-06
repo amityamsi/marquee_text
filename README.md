@@ -3,6 +3,8 @@
 Marquee Text by CodeMicros is a production-ready Flutter marquee widget for
 smooth, infinitely scrolling text, rich spans, and custom widgets.
 
+![Marquee Text Demo](assets/demo.gif)
+
 ## Features
 
 - Scroll plain text, `RichText`, or any custom widget.

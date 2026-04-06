@@ -3,16 +3,20 @@ description: "Marquee Text is a Flutter widget for smooth, infinitely scrolling
   text, rich content, and custom widgets with flexible controls for direction,
   speed, fading edges, pauses, and animated colors."
 version: 1.0.1
-homepage: https://codemicros.com
-repository: https://codemicros.com
-issue_tracker: https://codemicros.com/support
-documentation: https://codemicros.com/support
+homepage: https://github.com/amityamsi/marquee_text
+repository: https://github.com/amityamsi/marquee_text
+issue_tracker: https://github.com/amityamsi/marquee_text/issues
+documentation: https://github.com/amityamsi/marquee_text/wiki
 topics:
   - marquee
   - animation
   - text
   - ticker
   - widget
+
+screenshots:
+  - description: "Animated demo of the Marquee widget showing smooth scrolling text."
+    path: assets/demo.gif
 
 environment:
   flutter: ">=3.0.0"
