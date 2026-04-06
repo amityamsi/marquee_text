@@ -1,0 +1,31 @@
+name: marquee_text
+description: "Marquee Text is a Flutter widget for smooth, infinitely scrolling
+  text, rich content, and custom widgets with flexible controls for direction,
+  speed, fading edges, pauses, and animated colors."
+version: 1.0.1
+homepage: https://codemicros.com
+repository: https://codemicros.com
+issue_tracker: https://codemicros.com/support
+documentation: https://codemicros.com/support
+topics:
+  - marquee
+  - animation
+  - text
+  - ticker
+  - widget
+
+environment:
+  flutter: ">=3.0.0"
+  sdk: "^3.5.0"
+
+dependencies:
+  fading_edge_scrollview: ^4.1.1
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+false_secrets:
+  - /example/android/.gradle

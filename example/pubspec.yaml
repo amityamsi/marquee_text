@@ -1,0 +1,17 @@
+name: marquee_text_example
+description: 'An example app showing how to use the Marquee Text widget.'
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  marquee_text:
+    path: ..
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
